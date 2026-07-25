@@ -1,9 +1,6 @@
 [submodule "26062-大竹"]
 	path = 26062-大竹
 	url = https://github.com/ckg26062/javascript.git
-[submodule "26010-岩切"]
-	path = 26010-岩切
-	url = https://github.com/Ckg26010/javascript.git
 [submodule "26088-田中"]
 	path = 26088-田中
 	url = https://github.com/ckg26088-web/javascripd.git
