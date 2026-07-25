@@ -1,15 +1,3 @@
-[submodule "26062-大竹"]
-	path = 26062-大竹
-	url = https://github.com/ckg26062/javascript.git
-[submodule "26088-田中"]
-	path = 26088-田中
-	url = https://github.com/ckg26088-web/javascripd.git
-[submodule "26082-佐藤"]
-	path = 26082-佐藤
-	url = https://github.com/ckg26082-ai/javascript.git
-[submodule "近藤夕璃捺"]
-	path = 26030-近藤夕璃捺
-	url = https://github.com/ckg26030-commits/javascript.git
 [submodule "26052-堤"]
 	path = 26052-堤
 	url = https://github.com/tennsi26052/javascript.git
@@ -31,3 +19,18 @@
 [submodule "26001-秋山"]
 	path = 26001-秋山
 	url = https://github.com/ckg26001/javascript.git
+[submodule "26010-岩切"]
+	path = 26010-岩切
+	url = https://github.com/Ckg26010/javascript.git
+[submodule "26030-近藤"]
+	path = 26030-近藤
+	url = https://github.com/ckg26030-commits/javascript.git
+[submodule "26062-大竹"]
+	path = 26062-大竹
+	url = https://github.com/ckg26062/javascript.git
+[submodule "26082-佐藤"]
+	path = 26082-佐藤
+	url = https://github.com/ckg26082-ai/javascript.git
+[submodule "26088-田中"]
+	path = 26088-田中
+	url = https://github.com/ckg26088-web/javascripd.git
