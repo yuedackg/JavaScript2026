@@ -28,3 +28,9 @@
 [submodule "26028-黒川杏南"]
 	path = 26028-黒川杏南
 	url = https://github.com/ckg26028/JavaScript.git
+[submodule "26059-東紫苑"]
+	path = 26059-東紫苑
+	url = https://github.com/ckg26059/javascript.git
+[submodule "26008-桑原"]
+	path = 26008-桑原
+	url = https://github.com/ckg26008/javascript.git
