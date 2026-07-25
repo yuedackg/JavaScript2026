@@ -31,3 +31,6 @@
 [submodule "26008-桑原"]
 	path = 26008-桑原
 	url = https://github.com/ckg26008/javascript.git
+[submodule "26001-秋山"]
+	path = 26001-秋山
+	url = https://github.com/ckg26001/javascript.git
